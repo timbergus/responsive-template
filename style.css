@@ -60,7 +60,7 @@ nav {
   flex-direction: column;
 }
 
-.left {
+.left-contents {
   height: 100%;
   box-sizing: border-box;
   overflow: auto;
@@ -72,7 +72,7 @@ nav {
   flex-direction: column;
 }
 
-.right {
+.right-contents {
   height: 100%;
   box-sizing: border-box;
   overflow: auto;
